@@ -1,4 +1,4 @@
-# Gemini 2.5 Pro + LangExtract (Streamlit + CLI)
+# Gemini Vision + LangExtract (Streamlit + CLI)
 
 ```mermaid
 flowchart TD
