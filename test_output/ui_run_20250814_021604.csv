@@ -1,0 +1,124 @@
+extraction_class,extraction_text,attributes_json,start_pos,end_pos,alignment_status
+Effective dates,"3rd day of February, 2017","{""date_type"": ""agreement_date""}",,,
+Parties,PTN WorkPro Holdings LLC,"{""name"": ""PTN WorkPro Holdings LLC"", ""role"": ""Provider""}",,,
+Parties,"the STATE OF MARYLAND, acting through the Department of
+Budget and Management","{""name"": ""STATE OF MARYLAND, acting through the Department of Budget and Management"", ""role"": ""Customer""}",,,
+Parties,"""Contractor"" means PTN WorkPro Holdings LLC d/b/a WORKPRO Occupational Health
+whose principal business address is 200 Biddle Avenue, Suite 213, Newark, DE 19702 and
+whose principal office in Maryland is 501 Fairmount Avenue, Suite 302, Towson, MD
+21286.","{""name"": ""PTN WorkPro Holdings LLC d/b/a WORKPRO Occupational Health"", ""role"": ""Contractor""}",,,
+Parties,"""Department"" means the Department of Budget and Management.","{""name"": ""Department of Budget and Management"", ""role"": ""Customer""}",,,
+Parties,"""Guarantor"" means PT Network LLC, d/b/a Pivot Physical Therapy,","{""name"": ""PT Network LLC, d/b/a Pivot Physical Therapy"", ""role"": ""Guarantor""}",,,
+Parties,"""State"" means the State of Maryland.","{""name"": ""State of Maryland"", ""role"": ""Customer""}",,,
+Service scope,"The Contractor shall provide deliverables, programs, goods, and services specific to the
+Contract for Statewide Medical Director and Occupational Medical Services awarded in
+accordance with Exhibits A-C listed in this section and incorporated as part of this Contract.",{},,,
+Price increases,"if any change under this section causes an increase or decrease in the Contractor's cost of, or
+the time required for, the performance of any part of the work, whether or not changed by the
+order, an equitable adjustment in the Contract price shall be made and the Contract modified
+in writing accordingly.",{},,,
+Notice windows,"The Contractor must assert in writing its right to an adjustment under
+this section within thirty (30) days of receipt of written change order","{""window"": ""30 days"", ""event"": ""receipt of written change order""}",,,
+Effective dates,"The term of this Contract begins on the date the Contract is signed by the Department
+following any required approvals of the Contract, including approval by the Board of Public
+Works, if such approval is required.","{""date_type"": ""start_date""}",,,
+Initial term,"the Contract shall be for a period of approximately five years beginning on April 1, 2017 and
+ending on March 31, 2022.","{""term"": ""five years"", ""start_date"": ""April 1, 2017"", ""end_date"": ""March 31, 2022""}",,,
+Audit rights,"Audit, confidentiality, document retention, and indemnification obligations under this
+Contract shall survive expiration or termination of the Contract","{""survival"": ""survives termination""}",,,
+Confidentiality,"Audit, confidentiality, document retention, and indemnification obligations under this
+Contract shall survive expiration or termination of the Contract","{""survival"": ""survives termination""}",,,
+Records retention and inspection,"Audit, confidentiality, document retention, and indemnification obligations under this
+Contract shall survive expiration or termination of the Contract","{""survival"": ""survives termination""}",,,
+Indemnity scope,"Audit, confidentiality, document retention, and indemnification obligations under this
+Contract shall survive expiration or termination of the Contract","{""survival"": ""survives termination""}",,,
+Fees,"payment to the Contractor pursuant to this Contract, including the base term
+and any option exercised by the State, shall not exceed $ ().","{""amount"": ""not to exceed, amount not specified"", ""currency"": ""$""}",,,
+Payment terms,"Payments to the Contractor shall be made no later than thirty (30) days after the Department's
+receipt of a proper invoice for services provided by the Contractor, acceptance by the
+Department of services provided by the Contractor, and pursuant to the conditions outlined in
+Section 4 of this Contract.","{""period"": ""30 days""}",,,
+Records retention and inspection,"The Contractor agrees that all documents and materials including, but not limited to, software,
+reports, drawings, studies, specifications, estimates, tests, maps, photographs, designs,
+graphics, mechanical, artwork, computations, and data prepared by the Contractor for
+purposes of this Contract shall be the sole property of the State and shall be available to the
+State at any time.","{""owner"": ""State"", ""availability"": ""at any time""}",,,
+Indemnity scope,"The Contractor will defend or settle, at its own expense, any claim or suit against the State
+alleging that any such item furnished by the Contractor infringes any patent, trademark, service
+mark, copyright, or trade secret.","{""scope"": ""Intellectual property infringement""}",,,
+Confidentiality,"Subject to the Maryland Public Information Act and any other applicable Jaws including,
+without limitation, HIPAA, the HI-TECH ACT, and the Maryland Medical Records Act and the
+implementation of regulations promulgated pursuant thereto, all confidential or proprietary information
+and documentation relating to either party (including without limitation, any information or data stored
+within the Contractor's computer systems) shall be held in absolute confidence by the other party.",{},,,
+HIPAA/Data Processing (DPA),"HIPAA, the HI-TECH ACT, and the Maryland Medical Records Act","{""compliance_required"": ""Yes""}",,,
+Loss of data responsibilities,"In the event of loss of any State data or records where such loss is due to the intentional act or
+omission or negligence of the Contractor or any of its subcontractors or agents, the Contractor shall be
+responsible for recreating such lost data in the manner and on the schedule set by the Contract
+Monitor.","{""responsibility"": ""Contractor responsible for recreating lost data""}",,,
+Indemnity scope,"The Contractor shall hold harmless and indemnify the State from and against any and all
+losses, damages, claims, suits, actions, liabilities, and/or expenses, including, without
+limitation, attorneys' fees and disbursements of any character that arise from, are in
+connection with or are attributable to the performance or nonperformance of the Contractor
+or its subcontractors under this Contract.","{""scope"": ""All losses arising from Contractor's performance or nonperformance""}",,,
+Governing law,"This Contract shall be construed, interpreted, and enforced according to the Jaws of the State of
+Maryland.","{""state"": ""Maryland""}",,,
+Jurisdiction,"This Contract shall be subject to the provisions of Md. Code Ann., State Finance and Procurement
+Article, Title 15, Subtitle 2, and COMAR 21.10 (Administrative and Civil Remedies).","{""court"": ""Maryland administrative and civil remedies process""}",,,
+Warranties,"The Contractor warrants that it has not employed or retained any person, partnership, corporation, or
+other entity, other than a bona fide employee, bona fide agent, bona fide salesperson, or commercial
+selling agency working for the business, to solicit or secure the Contract","{""scope"": ""No use of contingent fee agents to secure contract""}",,,
+Non-appropriation (automatic cancellation),"If the General Assembly fails to appropriate funds or if funds are not otherwise made available for
+continued performance for any fiscal period of this Contract succeeding the first fiscal period, this
+Contract shall be canceled automatically as of the beginning of the fiscal year for which funds were
+not appropriated or otherwise made available","{""cancellation"": ""Automatic""}",,,
+Termination (for cause/convenience),"If the Contractor fails to fulfill its obligations under this Contract properly and on time, or otherwise
+violates any provision of the Contract, the State may terminate the Contract by written notice to the
+Contractor.","{""type"": ""for_cause""}",,,
+Termination (for cause/convenience),"The performance of work under this Contract may be terminated by the State in accordance with this
+clause in whole, or from time to time in part, whenever the State shall determine that such
+termination is in the best interest of the State.","{""type"": ""for_convenience""}",,,
+Records retention and inspection,"The Contractor and subcontractors shall retain and maintain all records and documents relating to this
+Contract for a period of five (5) years after final payment by the State hereunder or any applicable
+statute of limitations or federal retention requirements (such as HIPAA), whichever is longer","{""period"": ""five (5) years after final payment or longer if required""}",,,
+Audit rights,"shall make them available for inspection and audit by authorized representatives of the State,
+including the Procurement Officer or designee, at all reasonable times.","{""auditor"": ""authorized representatives of the State""}",,,
+Warranties,The Contractor hereby represents and warrants that:,"{""scope"": ""General compliance with laws and qualifications""}",,,
+Price increases,"The price under this Contract and any change order or modification hereunder, including profit or
+fee, shall be adjusted to exclude any significant price increases occurring because the Contractor
+furnished cost or price information which, as of the date of its Bid/Proposal, was inaccurate,
+incomplete, or not current.",{},,,
+Liability cap (amount/basis),"For infringement of patents, copyrights, trademarks, service marks, and/or trade secrets,
+as provided in Section 7 of this Contract;","{""basis"": ""As provided in Section 7 (which includes defense and payment of damages)""}",,,
+Liability cap (amount/basis),"Without limitation for damages for bodily injury (including death) and damage to
+real property and tangible personal property; and","{""basis"": ""Unlimited for bodily injury and property damage""}",,,
+Liability cap (amount/basis),"For all other claims, damages, losses, costs, expenses, suits, or actions in any way related
+to this Contract, regardless of the form Contractor's liability for third party claims
+arising under Section 10 of this Contract shall be unlimited if the State is not immune
+from liability for claims arising under Section 10.","{""basis"": ""Unlimited for third-party indemnity claims under Section 10 if State is not immune""}",,,
+SLA metrics,"Failure to submit each monthly payment report in full compliance with COMAR
+21.11.03.138(3): $31.65 per day until the monthly report is submitted as required.","{""penalties/credits"": ""$31.65 per day""}",,,
+SLA metrics,"Failure to include in its agreements with MBE subcontractors a provision
+requiring submission of payment reports in full compliance with COMAR
+21.11.03.138(4):
+$112.10 per MBE subcontractor.","{""penalties/credits"": ""$112.10 per MBE subcontractor""}",,,
+SLA metrics,"Failure to comply with COMAR 21.11.03.12 in terminating, canceling, or changing
+the scope of work/value of a contract with an MBE subcontractor and/or amendment
+of the MBE participation schedule: the difference between the dollar value of the
+MBE participation commitment on the MBE participation schedule for that specific
+MBE firm and the dollar value of the work performed by that MBE firm for the
+Contract.","{""penalties/credits"": ""Difference between committed and actual dollar value for MBE subcontractor""}",,,
+SLA metrics,"Failure to promptly pay all undisputed amounts to a subcontractor in full compliance with the
+prompt payment provisions of the Contract: $100 per day until the undisputed amount due to the
+subcontractor is paid.","{""penalties/credits"": ""$100 per day""}",,,
+HIPAA/Data Processing (DPA),"The Contractor acknowledges its duty to become familiar with and comply, to the extent
+applicable, with all requirements of the federal Health Insurance Portability and
+Accountability Act (HIPAA), 42 U.S.C. § 1320d et seq., and implementing regulations
+including 45 C.P.R. Parts 160 and 164. The Contractor also agrees to comply with the
+Maryland Confidentiality of Medical Records Act (MCMRA), Md. Code Ann. Health-
+General§§ 4-301 et seq.","{""compliance_required"": ""Yes""}",,,
+HIPAA/Data Processing (DPA),"Based on the determination by the Department that the functions to be performed in
+accordance with the scope of work set forth in the solicitation constitute business associate
+functions as defined in HIPAA, the selected Bidder/Offeror shall execute a business
+associate agreement as required by HIPAA regulations at 45 C.P.R. 164.501 and in the form
+as required by the Department.","{""compliance_required"": ""Yes, a separate Business Associate Agreement must be executed""}",,,
