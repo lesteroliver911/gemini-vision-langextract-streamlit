@@ -1,8 +1,8 @@
 # Gemini Vision + LangExtract (Streamlit + CLI)
 
 ```mermaid
-flowchart TD
-  A["PDF / DOCX / HTML upload"] --> B["Gemini 2.5 Pro (Vision, thinking=8192)"]
+a graph TD
+  A["PDF upload"] --> B["Google Gemini 2.5 Pro (Vision, thinking=8192)"]
   A --> C["Local text extractors (PyMuPDF / pdfplumber / trafilatura / python-docx)"]
   B --> D["google/langextract grounding"]
   C --> D
@@ -11,6 +11,8 @@ flowchart TD
 ```
 
 Google Gemini 2.5 Pro (Vision + thinking) + google/langextract for grounded extractions from contracts (and other long PDFs). Vision path sends PDF bytes directly—no OCR setup.
+
+Repo: https://github.com/lesteroliver911/gemini-vision-langextract-streamlit
 
 ## What you get
 - Gemini 2.5 Pro Vision path (PDF bytes in, extractions out). Thinking budget 8192.
@@ -30,13 +32,15 @@ Google Gemini 2.5 Pro (Vision + thinking) + google/langextract for grounded extr
 Requirements: Python 3.13 on macOS/Linux.
 
 ```bash
-git clone YOUR_FORK_URL gemini-2-5-pro-langextract-streamlit
-cd gemini-2-5-pro-langextract-streamlit
+git clone https://github.com/lesteroliver911/gemini-vision-langextract-streamlit
+cd gemini-vision-langextract-streamlit
 
 python3 -m venv .venv
 source .venv/bin/activate
 python -m pip install --upgrade pip
-pip install google-genai langextract streamlit pymupdf pdfplumber python-docx trafilatura beautifulsoup4 lxml python-dotenv pandas
+pip install \
+  google-genai langextract streamlit pymupdf pdfplumber \
+  python-docx trafilatura beautifulsoup4 lxml python-dotenv pandas
 ```
 
 Create `.env` (pick either key):
