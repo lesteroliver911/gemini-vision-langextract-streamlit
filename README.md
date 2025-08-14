@@ -2,7 +2,7 @@
 
 ```mermaid
 a graph TD
-  A["PDF upload"] --> B["Google Gemini 2.5 Pro (Vision, thinking=8192)"]
+  A["PDF / DOCX / HTML upload"] --> B["Google Gemini 2.5 Pro (Vision, thinking=8192)"]
   A --> C["Local text extractors (PyMuPDF / pdfplumber / trafilatura / python-docx)"]
   B --> D["google/langextract grounding"]
   C --> D
