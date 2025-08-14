@@ -14,6 +14,9 @@ Google Gemini 2.5 Pro (Vision + thinking) + google/langextract for grounded extr
 
 Repo: https://github.com/lesteroliver911/gemini-vision-langextract-streamlit
 
+## Demo
+<video src="https://github.com/lesteroliver911/gemini-vision-langextract-streamlit/raw/main/assets/gemini-langextract.mov" controls muted playsinline width="800"></video>
+
 ## What you get
 - Gemini 2.5 Pro Vision path (PDF bytes in, extractions out). Thinking budget 8192.
 - Grounded extractions and interactive HTML visualization (google/langextract).
